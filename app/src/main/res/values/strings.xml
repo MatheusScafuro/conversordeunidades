@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">conversordeunidades</string>
+    <string-array name="conversion_types">
+        <item>Comprimento (Metros para Quilômetros)</item>
+        <item>Temperatura (Celsius para Fahrenheit)</item>
+        <item>Peso (Quilogramas para Libras)</item>
+    </string-array>
+</resources>
