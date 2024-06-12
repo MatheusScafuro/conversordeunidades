@@ -4,5 +4,7 @@
         <item>Comprimento (Metros para Quilômetros)</item>
         <item>Temperatura (Celsius para Fahrenheit)</item>
         <item>Peso (Quilogramas para Libras)</item>
+        <item>Moeda (USD para EUR)</item>
+        <item>Moeda (BRL para USD)</item>
     </string-array>
 </resources>
